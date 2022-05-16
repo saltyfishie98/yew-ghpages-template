@@ -600,7 +600,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "yew-app"
+name = "yew-ghpages-template"
 version = "0.1.0"
 dependencies = [
  "gloo 0.7.0",

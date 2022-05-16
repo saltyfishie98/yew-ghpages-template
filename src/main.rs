@@ -1,6 +1,5 @@
-use yew_app::App;
+use app::App;
 
-fn main()
-{
+fn main() {
     yew::start_app::<App>();
 }

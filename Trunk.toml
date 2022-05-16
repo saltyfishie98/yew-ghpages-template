@@ -3,7 +3,7 @@ target = "index.html"
 dist = "dist"
 release = false
 public_url = "/yew-ghpage/"            # for {username}.github.io/{project_name}
-# public_url = "/"                           # for {username}.github.io
+# public_url = "/<project_name>/"            # for {username}.github.io/{project_name}
 
 [watch]
 watch = [
@@ -16,6 +16,7 @@ watch = [
 [clean]
 dist = "dist"
 
+# for tailwind
 # [[hooks]]
 # stage = "pre_build"
 # command = "sh"

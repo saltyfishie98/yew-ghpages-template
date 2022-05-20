@@ -1,6 +1,6 @@
 # yew-ghpages-template
 
-A basic yew-rs project template for that deploys on github pages
+A basic yew-rs project template that deploys on github pages
 
 ### Note:
 - When creating from this template "include all branch" needs to be enabled to include the "gh-pages" branch; where the webpage would be deployed. Else, a "gh-pages" branch needs to be created manually.
